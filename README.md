@@ -69,7 +69,7 @@ Geographic Analysis
 - High-loyalty customers represent a smaller segment of the customer base.
 - Satisfaction and loyalty vary across customer groups and geographic locations.
 - Product-related factors are important contributors to customer satisfaction.
-## Project Files
+### Project Files
 
 - **Power BI Dashboard:** `Customer Satisfaction_Project.pbix`
 - **Dashboard Screenshots:** `screenshots/`
