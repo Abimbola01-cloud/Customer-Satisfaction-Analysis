@@ -10,17 +10,19 @@ OmniRetail wants to better understand its customers and identify the factors inf
 - Analyze repeat purchase behavior
 - Examine customer support interactions
 - Compare customer performance across locations
-### Tools Used
-- Power BI	   - Dashboard and visualization
-- Power Query  - Data cleaning and transformation
-- DAX	         - Measures and calculations
-- Excel	       - Data source / preparation
+  
+### Tools Used 
+- **Power BI** – Dashboard development and data visualization
+- **Power Query** – Data cleaning and transformation
+- **DAX** – Measures and calculations
+- **Excel** – Data source and preparation
+  
 ### Dashboard Pages
-#### Executive Overview
+#### 1. Executive Overview
 Provides a high-level view of customer demographics, loyalty, satisfaction, and purchasing behavior.
-#### Customer Satisfaction, Support & Loyalty
+#### 2. Customer Satisfaction, Support & Loyalty
 Explores satisfaction factors, loyalty levels, repeat purchases, and customer support interactions.
-#### Geographic Analysis
+#### 3. Geographic Analysis
 Examines customer satisfaction and loyalty across different locations.
 
 ### Dashboard Preview
@@ -34,18 +36,20 @@ Geographic Analysis
 ![Customer Satisfaction Analysis](Geographic-Analysis.png)
 
 ### Key Performance Indicators
-- Average Satisfaction: 5.35/10
-- Repeat Purchase Customers: 69
-- High Loyalty Customers: 37
-- Customer Support Contacts
-- Geographic Satisfaction
+| KPI | Result |
+|---|---:|
+| Average Satisfaction | **5.35 / 10** |
+| Repeat Purchase Customers | **69** |
+| High Loyalty Customers | **37** |
+| Customer Support Contacts | **See Dashboard** |
+| Geographic Satisfaction | **See Dashboard** |
 
 ### Results / Findings
-Customer satisfaction is moderate.
-More than half of customers are repeat purchasers.
-High-loyalty customers represent a smaller segment.
-Satisfaction and loyalty vary across customer groups and locations.
-Product-related factors are important drivers of satisfaction.
+- Customer satisfaction is moderate, indicating opportunities to improve the overall customer experience.
+- More than half of customers are repeat purchasers, suggesting relatively positive customer retention.
+- High-loyalty customers represent a smaller segment of the customer base.
+- Satisfaction and loyalty vary across customer groups and geographic locations.
+- Product-related factors are important contributors to customer satisfaction.
 
 ### Challenges
 - Moderate overall satisfaction.
@@ -54,8 +58,12 @@ Product-related factors are important drivers of satisfaction.
 - Difficulty identifying a single strategy that works for every customer group.
 
 ### Recommendations
-- Improve low-rated satisfaction factors.
-- Strengthen customer loyalty programs.
-- Target low-loyalty customers with personalized engagement.
-- Investigate recurring customer support issues.
-- Develop location-specific customer strategies.
+- Customer satisfaction is moderate, indicating opportunities to improve the overall customer experience.
+- More than half of customers are repeat purchasers, suggesting relatively positive customer retention.
+- High-loyalty customers represent a smaller segment of the customer base.
+- Satisfaction and loyalty vary across customer groups and geographic locations.
+- Product-related factors are important contributors to customer satisfaction.
+## Project Files
+
+- **Power BI Dashboard:** `Customer Satisfaction_Project.pbix`
+- **Dashboard Screenshots:** `screenshots/`
