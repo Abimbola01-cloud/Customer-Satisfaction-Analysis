@@ -11,11 +11,10 @@ OmniRetail wants to better understand its customers and identify the factors inf
 - Examine customer support interactions
 - Compare customer performance across locations
 ### Tools Used
-Tool	              Purpose
-Power BI	          Dashboard and visualization
-Power Query        	Data cleaning and transformation
-DAX	                Measures and calculations
-Excel	              Data source / preparation
+Power BI	   - Dashboard and visualization
+Power Query  - Data cleaning and transformation
+DAX	         - Measures and calculations
+Excel	       - Data source / preparation
 ### Dashboard Pages
 #### Executive Overview
 Provides a high-level view of customer demographics, loyalty, satisfaction, and purchasing behavior.
@@ -31,7 +30,7 @@ Examines customer satisfaction and loyalty across different locations.
 - Customer behavior differs across geographic locations.
 ### Dashboard Preview
 ####  Executive Overview
-![Customer Satisfaction Analysis]
+![Customer Satisfaction Analysis](Customer_Satisfaction_1.png)
 
 Customer Satisfaction, Support & Loyalty
 
