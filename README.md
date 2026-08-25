@@ -32,11 +32,30 @@ Customer Satisfaction, Support & Loyalty
 
 Geographic Analysis
 ![Customer Satisfaction Analysis](Geographic-Analysis.png)
-### Key Performance Indicators
 
-### Key Insights
-- Average customer satisfaction is 5.35/10.
-- More than half of customers are repeat purchasers.
-- Product Quality is among the strongest satisfaction factors.
-- Customer satisfaction varies across loyalty levels.
-- Customer behavior differs across geographic locations.
+### Key Performance Indicators
+- Average Satisfaction: 5.35/10
+- Repeat Purchase Customers: 69
+- High Loyalty Customers: 37
+- Customer Support Contacts
+- Geographic Satisfaction
+
+### Results / Findings
+Customer satisfaction is moderate.
+More than half of customers are repeat purchasers.
+High-loyalty customers represent a smaller segment.
+Satisfaction and loyalty vary across customer groups and locations.
+Product-related factors are important drivers of satisfaction.
+
+### Challenges
+- Moderate overall satisfaction.
+- Uneven loyalty across customer segments.
+- Differences in satisfaction across locations.
+- Difficulty identifying a single strategy that works for every customer group.
+
+### Recommendations
+- Improve low-rated satisfaction factors.
+- Strengthen customer loyalty programs.
+- Target low-loyalty customers with personalized engagement.
+- Investigate recurring customer support issues.
+- Develop location-specific customer strategies.
