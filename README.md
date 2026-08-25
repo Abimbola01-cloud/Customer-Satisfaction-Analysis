@@ -1,8 +1,14 @@
 # Customer-Satisfaction-Analysis
 ### Power BI | Data Analytics | Customer Experience
 An interactive Power BI dashboard designed to analyze customer satisfaction, loyalty, repeat purchase behavior, customer support interactions, and geographic performance.
+
+> **Project Type:** Customer Experience & Retention Analytics  
+> **Role:** Data Analyst | Power BI Developer   
+> **Focus:** Customer Satisfaction | Loyalty | Retention | Support | Geographic Analysis
+
 ### Business Problem
 OmniRetail wants to better understand its customers and identify the factors influencing satisfaction, loyalty, repeat purchases, and customer support interactions.
+
 ### Project Objectives
 - Analyze overall customer satisfaction
 - Identify key satisfaction drivers
