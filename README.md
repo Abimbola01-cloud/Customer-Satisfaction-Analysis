@@ -72,4 +72,4 @@ Geographic Analysis
 ### Project Files
 
 - **Power BI Dashboard:** `Customer Satisfaction_Project.pbix`
-- **Dashboard Screenshots:** `screenshots/`
+- **Dashboard Screenshots:** `screenshots`
