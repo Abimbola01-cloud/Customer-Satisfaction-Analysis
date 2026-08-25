@@ -11,10 +11,10 @@ OmniRetail wants to better understand its customers and identify the factors inf
 - Examine customer support interactions
 - Compare customer performance across locations
 ### Tools Used
-Power BI	   - Dashboard and visualization
-Power Query  - Data cleaning and transformation
-DAX	         - Measures and calculations
-Excel	       - Data source / preparation
+- Power BI	   - Dashboard and visualization
+- Power Query  - Data cleaning and transformation
+- DAX	         - Measures and calculations
+- Excel	       - Data source / preparation
 ### Dashboard Pages
 #### Executive Overview
 Provides a high-level view of customer demographics, loyalty, satisfaction, and purchasing behavior.
@@ -22,20 +22,21 @@ Provides a high-level view of customer demographics, loyalty, satisfaction, and 
 Explores satisfaction factors, loyalty levels, repeat purchases, and customer support interactions.
 #### Geographic Analysis
 Examines customer satisfaction and loyalty across different locations.
+
+### Dashboard Preview
+####  Executive Overview
+![Customer Satisfaction Analysis](Executive-Overview.png)
+
+Customer Satisfaction, Support & Loyalty
+![Customer Satisfaction Analysis](Customer-Satisfaction-Support-Loyalty.png)
+
+Geographic Analysis
+![Customer Satisfaction Analysis](Geographic-Analysis.png)
+### Key Performance Indicators
+
 ### Key Insights
 - Average customer satisfaction is 5.35/10.
 - More than half of customers are repeat purchasers.
 - Product Quality is among the strongest satisfaction factors.
 - Customer satisfaction varies across loyalty levels.
 - Customer behavior differs across geographic locations.
-### Dashboard Preview
-####  Executive Overview
-![Customer Satisfaction Analysis](Customer_Satisfaction_1.png)
-
-Customer Satisfaction, Support & Loyalty
-
-[dashboard screenshot]
-
-Geographic Analysis
-
-[dashboard screenshot]
